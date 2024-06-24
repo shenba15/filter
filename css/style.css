@@ -1,0 +1,287 @@
+*{
+margin:0px;
+padding:0px;
+box-sizing:border-box;
+}
+.container{
+width:80%;
+margin:auto;
+background-color:rgb(242, 109, 19);
+}
+.row{
+width:100%;
+display:flex;
+justify-content:space-around;
+}
+.col{
+width:40%;
+}
+.image1{
+width:100%;
+}
+.image1 img{
+	width:100%;
+	filter:blur(10px);
+}
+	
+.col1{
+width:40%;
+}
+.image{
+width:100%;
+}
+.image img{
+width:100%;
+}
+h1, h2{
+	text-align:center;
+	color:white;
+	text-transform:capitalize;
+}
+p{
+	color:white;
+	text-align:center;
+}
+.sec1{
+	padding-top:20px;
+}
+
+
+.image2{
+width:100%;
+}
+.image2 img{
+	width:100%;
+	filter:brightness(0%);
+}
+
+.image3{
+width:100%;
+}
+.image3 img{
+	width:100%;
+	filter:brightness(100%);
+}
+
+.image4{
+width:100%;
+}
+.image4 img{
+	width:100%;
+	filter:brightness(200%);
+}
+
+.col2{
+width:20%;
+}
+
+
+.image5{
+width:100%;
+}
+.image5 img{
+	width:100%;
+	filter:contrast(0%);
+}
+.image6{
+width:100%;
+}
+.image6 img{
+	width:100%;
+	filter:contrast(20%);
+}
+.image7{
+width:100%;
+}
+.image7 img{
+	width:100%;
+	filter:contrast(100%);
+}
+.image8{
+width:100%;
+}
+.image8 img{
+	width:100%;
+	filter:contrast(200%);
+}
+
+.col3{
+width:15%;
+}
+
+
+
+.image9{
+width:100%;
+}
+.image9 img{
+	width:100%;
+	filter:grayscale(0%);
+}
+.image10{
+width:100%;
+}
+.image10 img{
+	width:100%;
+	filter:grayscale(50%);
+}
+.image11{
+width:100%;
+}
+.image11 img{
+	width:100%;
+	filter:grayscale(100%);
+}
+
+.col4{
+width:20%;
+}
+
+
+.image12{
+width:100%;
+}
+.image12 img{
+	width:100%;
+	filter:hue-rotate(0deg);
+}
+.image13{
+width:100%;
+}
+.image13 img{
+	width:100%;
+	filter:hue-rotate(120deg);
+}
+.image14{
+width:100%;
+}
+.image14 img{
+	width:100%;
+	filter:hue-rotate(240deg);
+}
+.image15{
+width:100%;
+}
+.image15 img{
+	width:100%;
+	filter:hue-rotate(360deg);
+}
+
+.col5{
+width:15%;
+}
+
+
+.image16{
+width:100%;
+}
+.image16 img{
+	width:100%;
+	filter:invert(0%);
+}
+.image17{
+width:100%;
+}
+.image17 img{
+	width:100%;
+	filter:invert(50%);
+}
+.image18{
+width:100%;
+}
+.image18 img{
+	width:100%;
+	filter:invert(100%);
+}
+.image19{
+width:100%;
+}
+.image19 img{
+	width:100%;
+	filter:invert(150%);
+}
+
+.col6{
+width:15%;
+}
+
+
+.image20{
+width:100%;
+}
+.image20 img{
+	width:100%;
+	filter:saturate(0%);
+}
+.image21{
+width:100%;
+}
+.image21 img{
+	width:100%;
+	filter:saturate(10%);
+}
+.image22{
+width:100%;
+}
+.image22 img{
+	width:100%;
+	filter:saturate(100%);
+}
+.image23{
+width:100%;
+}
+.image23 img{
+	width:100%;
+	filter:saturate(150%);
+}
+
+.col7{
+width:15%;
+}
+
+
+.image24{
+width:100%;
+}
+.image24 img{
+	width:100%;
+	filter:sepia(0%);
+}
+.image25{
+width:100%;
+}
+.image25 img{
+	width:100%;
+	filter:sepia(50%);
+}
+.image26{
+width:100%;
+}
+.image26 img{
+	width:100%;
+	filter:sepia(100%);
+}
+.image27{
+width:100%;
+}
+.image27 img{
+	width:100%;
+	filter:sepia(150%);
+}
+
+.col8{
+width:15%;
+}
+
+
+.image28{
+width:100%;
+}
+.image28 img{
+	width:100%;
+	filter:drop-shadow(0px 0px 15px red);
+}
+
+.col9{
+width:40%;
+}
